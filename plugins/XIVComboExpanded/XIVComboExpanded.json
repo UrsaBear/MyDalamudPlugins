@@ -1,14 +1,14 @@
 {
-  "Author": "attick, daemitus",
+  "Author": "attick, UrsaBear",
   "Name": "XIV Combo Expanded",
   "InternalName": "XIVComboExpanded",
   "AssemblyVersion": "1.3.4.1",
   "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
+  "RepoUrl": "https://github.com/UrsaBear/XIVComboPlugin",
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "ImageUrls": [],
-  "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/UrsaBear/XIVComboPlugin/master/res/icon.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button."
 }

@@ -1,14 +1,14 @@
 {
-  "Author": "daemitus",
+  "Author": "UrsaBear",
   "Name": "Something Need Doing",
   "InternalName": "SomethingNeedDoing",
   "AssemblyVersion": "1.3.0.5",
   "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
+  "RepoUrl": "https://github.com/UrsaBear/SomethingNeedDoing",
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [],
-  "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
+  "IconUrl": "https://github.com/UrsaBear/SomethingNeedDoing/raw/master/res/icon.png",
   "Punchline": "Work work."
 }
